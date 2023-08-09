@@ -24,7 +24,7 @@ This project was built using the following technologies and tools:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chhote04/simple-quiz-app.git
+   git clone https://github.com/Chhote04/quiz_app_using_js.git
    ```
 
 2. Navigate to the project directory:
