@@ -42,11 +42,18 @@ This project was built using the following technologies and tools:
 4. Your score will be displayed at the top of the screen.
 5. Click the "Next" button to move on to the next question.
 
-## Contributing
+# Live Demo
 
-Contributions to the Simple Quiz App are welcome! If you have suggestions for new features, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
+Check out the live version of the app: [Live Demo](https://adwebtechnology.com/weather/quiz.html)
+
+## Contribution
+
+If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
 
 ## Acknowledgments
+
+The app developement is inspired by GreatStackDev .
+GreatStack for https://www.youtube.com/@GreatStackDev.
 
 
 ## Contact
